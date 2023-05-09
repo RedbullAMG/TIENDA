@@ -303,3 +303,9 @@
 
 
 
+        @media (max-width: 767px) {
+            body {
+              font-size: 14px;
+            }
+          }
+        
